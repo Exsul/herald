@@ -1,0 +1,10 @@
+{
+  "name": "phoxy/snippets",
+  "description": "Common templates for phoxy framework",
+  "license": "Apache-2.0",
+  "minimum-stability": "dev",
+  "require" :
+  {
+    "phoxy/phoxy": "~1.4.2"
+  }
+}
